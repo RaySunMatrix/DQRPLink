@@ -1,0 +1,3 @@
+/home/admin/ProjectDlangs/DQRPLink/DQRPC++/cmake-build-debug/CMakeFiles/DQRPC__.dir
+/home/admin/ProjectDlangs/DQRPLink/DQRPC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/admin/ProjectDlangs/DQRPLink/DQRPC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

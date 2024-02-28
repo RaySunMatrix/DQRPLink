@@ -1,0 +1,6 @@
+{
+    "name": "DQRP",
+    "targetName": "DQRP",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

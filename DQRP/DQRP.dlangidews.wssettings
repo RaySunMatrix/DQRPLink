@@ -1,0 +1,26 @@
+{
+    "startupProject": "DQRP",
+    "expandedItems": [
+        "/home/admin/ProjectDlangs/DQRPLink/DQRP/DQRP/source/expr",
+        "/home/admin/ProjectDlangs/DQRPLink/DQRP/DQRP/dub.json",
+        "/home/admin/ProjectDlangs/DQRPLink/DQRP/DQRP/source"
+    ],
+    "selectedWorkspaceItem": "/home/admin/ProjectDlangs/DQRPLink/DQRP/DQRP/source/expr",
+    "files": [
+        {
+            "file": "/home/admin/ProjectDlangs/DQRPLink/DQRP/DQRP/source/app.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/ProjectDlangs/DQRPLink/DQRP/DQRP/source/expr/seq.d",
+            "column": 30,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/ProjectDlangs/DQRPLink/DQRP/DQRP/source/expr/qrp.d",
+            "column": 20,
+            "row": 80
+        }
+    ]
+}

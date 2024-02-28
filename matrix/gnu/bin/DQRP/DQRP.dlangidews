@@ -1,0 +1,9 @@
+{
+    "name": "DQRP",
+    "description": null,
+    "projects": {
+        "DQRP": "DQRP/dub.json"
+    },
+    "includePath": {
+    }
+}
